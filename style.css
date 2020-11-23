@@ -1,0 +1,28 @@
+
+.main{
+    width: 600px;
+    margin: 0 auto;
+    border: 5px solid lightgrey;
+}
+.formInput{
+    padding-top: 15px;
+    padding-left: 15px;
+    background-color: lightgray;
+    height: 40px;
+}
+form {
+    position: relative;
+    margin: 20px;
+    top: 12px;
+}
+button {
+    border-radius: 5px;
+    border: 1px solid;
+    color: white;
+    background-color: green;
+    height: 25px;
+    width: 50px;
+}
+tr:nth-child(even){
+    background-color: lightgray;
+}
